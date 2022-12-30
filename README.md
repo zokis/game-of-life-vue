@@ -1,5 +1,4 @@
-# Projet Conway's Game of Life
-
+# Project Conway's Game of Life
 
 ![screenshot](https://github.com/zokis/game-of-life-vue/blob/main/screenshot.png?raw=true)
 
